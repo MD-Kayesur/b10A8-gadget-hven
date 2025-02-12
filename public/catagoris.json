@@ -1,0 +1,91 @@
+[
+    {
+      "product_id": "101",
+      "product_title": "iPhone 14 Pro Max",
+      "product_image": "https://example.com/iphone14pro.jpg",
+      "category": "Smartphone",
+      "price": 1299,
+      "description": "6.7-inch Super Retina XDR display, A16 Bionic chip, 48MP Main camera.",
+      "Specification": ["128GB Storage", "iOS 16", "Always-On Display", "Dynamic Island"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "102",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://example.com/s23ultra.jpg",
+      "category": "Smartphone",
+      "price": 1199,
+      "description": "6.8-inch Dynamic AMOLED 2X, Snapdragon 8 Gen 2, 200MP Camera.",
+      "Specification": ["512GB Storage", "Android 13", "S Pen", "5000mAh Battery"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "103",
+      "product_title": "MacBook Pro 16-inch M2",
+      "product_image": "https://example.com/macbookpro.jpg",
+      "category": "Laptop",
+      "price": 2499,
+      "description": "Apple M2 Pro chip, 16-inch Liquid Retina XDR display, 32GB RAM.",
+      "Specification": ["1TB SSD", "macOS Ventura", "Touch ID", "M2 Pro Chip"],
+      "availability": true,
+      "rating": 4.9
+    },
+    {
+      "product_id": "104",
+      "product_title": "Dell XPS 15",
+      "product_image": "https://example.com/dellxps15.jpg",
+      "category": "Laptop",
+      "price": 1899,
+      "description": "15.6-inch 4K UHD+ display, Intel Core i9, 32GB RAM.",
+      "Specification": ["1TB SSD", "Windows 11", "NVIDIA RTX 4060", "Touchscreen"],
+      "availability": false,
+      "rating": 4.5
+    },
+    {
+      "product_id": "105",
+      "product_title": "Apple Watch Ultra",
+      "product_image": "https://example.com/applewatchultra.jpg",
+      "category": "Smartwatch",
+      "price": 799,
+      "description": "49mm Always-On Retina display, GPS + Cellular, Titanium case.",
+      "Specification": ["Water-resistant", "Heart Rate Monitor", "Blood Oxygen Sensor", "Emergency SOS"],
+      "availability": true,
+      "rating": 4.8
+    },
+    {
+      "product_id": "106",
+      "product_title": "Samsung Galaxy Watch 5 Pro",
+      "product_image": "https://example.com/galaxywatch5.jpg",
+      "category": "Smartwatch",
+      "price": 499,
+      "description": "Sapphire Crystal AMOLED, BioActive Sensor, GPS tracking.",
+      "Specification": ["Bluetooth", "Samsung Health", "Advanced Sleep Coaching", "Waterproof"],
+      "availability": true,
+      "rating": 4.6
+    },
+    {
+      "product_id": "107",
+      "product_title": "AirPods Pro (2nd Gen)",
+      "product_image": "https://example.com/airpodspro2.jpg",
+      "category": "Accessories",
+      "price": 249,
+      "description": "Active Noise Cancellation, Adaptive Transparency, Spatial Audio.",
+      "Specification": ["MagSafe Charging", "Siri Integration", "Bluetooth 5.3", "IPX4 Water Resistance"],
+      "availability": true,
+      "rating": 4.7
+    },
+    {
+      "product_id": "108",
+      "product_title": "Sony WH-1000XM5",
+      "product_image": "https://example.com/sonywh1000xm5.jpg",
+      "category": "Accessories",
+      "price": 399,
+      "description": "Industry-leading noise cancellation, 30-hour battery life.",
+      "Specification": ["Multipoint Connection", "Quick Charging", "360 Reality Audio", "Foldable Design"],
+      "availability": true,
+      "rating": 4.9
+    }
+  ]
+  
