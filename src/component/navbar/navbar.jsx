@@ -9,7 +9,7 @@ const link = <>
 
 <nav className="flex  " id="sidebar">
 
-<li> <NavLink to="home">Home</NavLink></li> 
+<li> <NavLink to="/">Home</NavLink></li> 
         <li><NavLink to="/statistics">Statistics</NavLink> </li>
         <li> <NavLink to="/dashboard">Dashboard</NavLink></li>
 </nav>
