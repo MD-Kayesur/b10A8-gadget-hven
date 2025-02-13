@@ -10,7 +10,9 @@ function Root() {
          <div  className="w-6xl mx-auto">
             <Navbar></Navbar>
 
+            
             <Outlet ></Outlet>
+             
          </div>
 
             <Footer></Footer>

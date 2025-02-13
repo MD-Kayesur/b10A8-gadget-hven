@@ -11,7 +11,7 @@ function Allcatagoris() {
    
 
     useEffect(()=>{
-        fetch('/public/catagoris.json')
+        fetch('/catagoris.json')
         .then(res=>res.json())
         .then(data=> setallacatagoris(data)
         )
